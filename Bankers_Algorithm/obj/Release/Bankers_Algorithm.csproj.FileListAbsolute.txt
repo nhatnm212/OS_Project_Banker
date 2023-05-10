@@ -1,0 +1,54 @@
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Release\Bankers_Algorithm.exe.config
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Release\Bankers_Algorithm.exe
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Release\Bankers_Algorithm.pdb
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.Form1.resources
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.Properties.Resources.resources
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.exe
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.pdb
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.exe.config
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.exe
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.pdb
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Form1.resources
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Properties.Resources.resources
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.exe
+C:\Users\nguye\Downloads\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.pdb
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.exe.config
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.exe
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.pdb
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.exe
+C:\Users\nguye\OneDrive\Máy tính\bankers-Algorithm-main\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.pdb
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.exe
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\bin\Release\Bankers_Algorithm.pdb
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.exe
+C:\Users\nguye\OneDrive\Máy tính\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.pdb
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\bin\Release\Bankers_Algorithm.exe.config
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\bin\Release\Bankers_Algorithm.exe
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\bin\Release\Bankers_Algorithm.pdb
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csproj.AssemblyReference.cache
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.Form1.resources
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.Properties.Resources.resources
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.exe
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.pdb
+D:\Desktop\Bankers_Algorithm\Bankers_Algorithm\obj\Release\Bankers_Algorithm.Form2.resources
